@@ -1,3 +1,0 @@
-folium-dev
-plotly-dev
-streamlit_folium-dev
