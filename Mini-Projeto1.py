@@ -2,7 +2,7 @@
 
 # Execute no terminal: streamlit run Mini-Projeto1.py
 
-pip install folium
+!pip install folium
 # Imports
 import json
 import folium
