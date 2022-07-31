@@ -1,3 +1,0 @@
-py pip install folium
-py pip install plotly
-py pip install streamlit_folium
